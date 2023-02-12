@@ -70,6 +70,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ![insert_product_page](https://user-images.githubusercontent.com/69311756/218329025-99107b42-a228-48d6-b0bd-da537694198f.jpg)
 
+![admin_products_view](https://user-images.githubusercontent.com/69311756/218329772-9f30f0ac-f089-4f66-bb46-6d7b94edeb12.jpg)
 
+![admin_update_product](https://user-images.githubusercontent.com/69311756/218329774-49447618-1ea3-4f34-ab08-3a8670947581.jpg)
 
 
